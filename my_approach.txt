@@ -1,0 +1,6 @@
+This file contains my approach to tackle this problem. Here I'm predicting the energy consumption of industrial equipment given various features.
+
+First I set up my local environment using conda which contains Python language and libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn and many more.
+Then created a notebook and structured it in such a way that it gives me a proper flow to follow so that I can cover all the eavaluation criteria properly.
+
+Then loaded the data, performed some data exploration and also parsed the dates i.e. the timestamp column.
