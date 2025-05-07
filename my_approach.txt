@@ -4,3 +4,4 @@ First I set up my local environment using conda which contains Python language a
 Then created a notebook and structured it in such a way that it gives me a proper flow to follow so that I can cover all the eavaluation criteria properly.
 
 Then loaded the data, performed some data exploration and also parsed the dates i.e. the timestamp column.
+
